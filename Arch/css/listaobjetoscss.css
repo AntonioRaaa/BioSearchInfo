@@ -1,0 +1,47 @@
+
+.ad {
+    padding: 10px 20px;
+    border: 2px solid #007bff; 
+    border-radius: 5px;
+    background-color: #007bff; 
+    color: #fff; 
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+    display: block;
+    margin-bottom: 2px; 
+  }
+  
+
+  .ad:hover {
+    background-color: #0056b3; 
+    border-color: #0056b3; 
+  }
+
+  .ad.small {
+    padding: 5px 10px;
+    font-size: 14px;
+  }
+
+  .ad.large {
+    padding: 15px 30px;
+    font-size: 18px;
+  }
+
+
+
+  @media (max-width: 600px) {
+   
+    .ad {
+      display: block;
+      margin-right: 0; 
+      margin-bottom: 2px; 
+    }
+
+    .adcont{
+        column-count: 1;
+      }
+  }
+  
