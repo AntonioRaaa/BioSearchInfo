@@ -151,10 +151,11 @@ img{
 
 .sectionnovedades{
   width: 300px;
-  height: auto;
+  height: 500px;
   background: #0d7bc4;
-
+  border-radius: 20px;
 }
+
 
 
 
