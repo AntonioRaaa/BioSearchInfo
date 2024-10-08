@@ -136,6 +136,22 @@ img{
   color: #333333;
 }
 
+
+
+.botonmapa{
+  text-decoration: none;
+  color: #000000;
+}
+
+
+.botonmapa:hover{
+  color: #49b92a;
+}
+
+
+
+
+
 @media screen and (max-width:720px) {
   #barrabusqueda{
     position: fixed;
