@@ -5,7 +5,7 @@
     margin: 0;
     padding: 0;
     font-family: 'Oswald', sans-serif;
-    
+    position: fixed;
 }
 
 
@@ -89,7 +89,7 @@ img{
 
 
 #barrabusqueda{
-  position: sticky;
+  position: fixed;
   top: 250px;
   width: 100%;
   background-color: transparent;
