@@ -8,6 +8,11 @@
     position: fixed;
 }
 
+body{
+  position: fixed;
+}
+
+
 
 .header{
     background-color: #49b92a;
