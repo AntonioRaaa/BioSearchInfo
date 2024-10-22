@@ -89,7 +89,7 @@ img{
 
 
 #barrabusqueda{
-  position: fixed;
+  position: sticky;
   top: 250px;
   width: 100%;
   background-color: transparent;
