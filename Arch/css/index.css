@@ -161,7 +161,6 @@ img{
 
 @media screen and (max-width:720px) {
   #barrabusqueda{
-    position: fixed;
     top: 350px;
     width: 200px;
     background-color: transparent;
@@ -170,7 +169,6 @@ img{
 
 
   #cajadebusqueda{
-    position: fixed;
     top: 410px;
     left: 50%;
     transform: translate(-50%);
