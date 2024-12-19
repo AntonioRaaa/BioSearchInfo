@@ -170,7 +170,7 @@ img{
 
 
   #cajadebusqueda{
-    position: fi;
+    position: fixed;
     top: 410px;
     left: 50%;
     transform: translate(-50%);
