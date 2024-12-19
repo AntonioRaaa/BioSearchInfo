@@ -117,6 +117,7 @@ img{
 }
 
 #cajadebusqueda li a{
+  position: fixed;
   display: block;
   width: 1200px;
   color: #000000;
