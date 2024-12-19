@@ -172,7 +172,7 @@ img{
   #cajadebusqueda{
     position: fixed;
     top: 410px;
-    left: 30%;
+    left: 15%;
     transform: translate(-50%);
     width: 400px;
     background-color: #d0cece;
