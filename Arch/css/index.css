@@ -11,7 +11,7 @@
 .header{
     background-color: #49b92a;
     display: flex;
-    justify-content: space-between;
+  
     align-items: center;
     height: 85px;
     padding: 5px 10%;
