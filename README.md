@@ -1,7 +1,9 @@
 # BioSearchInfo
 Infórmate de donde va cada producto/residuo para tirarlo en el contenedor correspondiente.
 
-![BioSearchInfo(IconoSinFondo)](Arch/img/BioSearchInfo(IconoSinFondo).png)
+<div align="center">
+  <img src="Arch/img/BioSearchInfo(IconoSinFondo).png" alt="BioSearchInfo(IconoSinFondo)">
+</div>
 
 VERSIÓN ACTUAL: 1.1
 
