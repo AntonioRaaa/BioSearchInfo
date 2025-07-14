@@ -65,6 +65,10 @@
     transition: all 0.3s ease 0s;
 }
 
+.btn{
+  padding: 5px;
+}
+
 
 
 .header .btn button:hover{
@@ -162,19 +166,19 @@ img{
 
 @media screen and (max-width:720px) {
   #barrabusqueda{
-    top: 350px;
-    width: 50px;
-    background-color: transparent;
-    padding: 10px;
+    top: 250px;
+    width: 10%;
+    padding: 20px;
+    z-index: 100;
   }
 
 
   #cajadebusqueda{
     position: fixed;
     top: 410px;
-    left: 15%;
+    left: 50%;
     transform: translate(-50%);
-    width: 400px;
+    width: 500px;
     background-color: #d0cece;
     z-index: 8;
     overflow: hidden;
